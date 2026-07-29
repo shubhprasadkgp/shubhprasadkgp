@@ -30,5 +30,4 @@ I'm an undergraduate at IIT Kharagpur passionate about backend engineering, dist
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/shubhprasad-iitkgp) 
-[Email](mailto:shubhprasadkgp@gmail.com)
+[LinkedIn](https://linkedin.com/in/shubhprasad-iitkgp) <br> [Email](mailto:shubhprasadkgp@gmail.com)
