@@ -1,39 +1,43 @@
-# Hi, I'm Shubh 👋
+# Hi, I'm Shubh Prasad 👋
 
-I'm a second-year undergraduate at **IIT Kharagpur** passionate about building **backend systems, distributed infrastructure, and AI-powered applications**. I enjoy breaking down complex problems, designing scalable systems, and understanding how software works under the hood.
+I'm an undergraduate at **IIT Kharagpur** passionate about **backend systems, distributed infrastructure, and storage engines**. I focus on low-level system design, concurrency, and building scalable developer tools.
 
-## 🚀 Featured Projects
+🏆 **Codeforces Specialist** (Max Rating: 1464) | 200+ Algorithmic Problems Solved
 
-### PulseQ
+---
 
-Distributed background job orchestration platform built with Redis queues, fault-tolerant workers, WebSockets, and Docker.
+## 🚀 Featured Systems & Projects
 
-### AegisDB
+### ⚙️ [PulseQ](https://github.com/shubhprasadkgp/PulseQ) 
+*Distributed Background Job Orchestration Platform*
+* **Tech:** Node.js, Express.js, Redis, WebSockets, Docker Compose
+* Engine supporting **10,000+ queued jobs** with atomic dispatch, retries, heartbeats, and failure recovery.
+* Built fault-tolerant worker coordination and a sub-second latency WebSocket dashboard for real-time monitoring.
 
-Embedded LSM-tree key-value storage engine written in C++ featuring Write-Ahead Logging (WAL), MemTables, SSTables, Bloom Filters, background compaction, and crash recovery.
+### 🗄️ [AegisDB](https://github.com/shubhprasadkgp/AegisDB) 
+*Embedded LSM-Tree Key-Value Storage Engine*
+* **Tech:** C++, Multithreading, File I/O
+* Implemented WAL for crash recovery, MemTables, SSTables, size-tiered compaction, and tombstone cleanup.
+* Accelerated read efficiency using 3-hash **Bloom filters** and sparse indexing.
 
-### MarketLab *(In Progress)*
+### 📈 [MarketLab](https://github.com/shubhprasadkgp/MarketLab) *(In Progress)*
+*Multi-Agent Stock Market Experimentation Platform*
+* **Tech:** FastAPI, React, PostgreSQL, Docker, Reinforcement Learning
+* Architected a limit-order-book exchange with 5 autonomous trading strategy agents (Momentum, Mean-Reversion, RL, etc.).
 
-Multi-agent stock market experimentation platform featuring a realistic limit-order-book exchange, autonomous trading agents, replay engine, and analytics.
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-**Languages:** C++, Python, JavaScript, TypeScript, SQL
+* **Languages:** C++, Python, JavaScript, TypeScript, SQL
+* **Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets
+* **Databases & Storage:** PostgreSQL, Redis, LSM-Trees
+* **Tools & DevOps:** Docker, Git, Linux, Bash
 
-**Backend:** Node.js, Express.js, FastAPI
+---
 
-**Databases:** PostgreSQL, Redis
+## 📫 Connect with Me
 
-**Tools:** Docker, Git, Linux
-
-## 📚 Currently Learning
-
-* Distributed Systems
-* Storage Engines
-* System Design
-* AI Infrastructure
-
-## 📫 Connect
-
-* LinkedIn: https://linkedin.com/in/shubhprasad-iitkgp
-* Email: [shubhprasadkgp@gmail.com](mailto:shubhprasadkgp@gmail.com)
+* **GitHub:** [github.com/shubhprasadkgp](https://github.com/shubhprasadkgp)
+* **LinkedIn:** [linkedin.com/in/shubhprasad-iitkgp](https://linkedin.com/in/shubhprasad-iitkgp)
+* **Email:** [shubhprasadkgp@gmail.com](mailto:shubhprasadkgp@gmail.com)
