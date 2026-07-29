@@ -1,43 +1,34 @@
 # Hi, I'm Shubh Prasad 👋
 
-I'm an undergraduate at **IIT Kharagpur** passionate about **backend systems, distributed infrastructure, and storage engines**. I focus on low-level system design, concurrency, and building scalable developer tools.
-
-🏆 **Codeforces Specialist** (Max Rating: 1464) | 200+ Algorithmic Problems Solved
+I'm an undergraduate at IIT Kharagpur passionate about backend engineering, distributed systems, and storage engines. I enjoy building reliable software from first principles, exploring how systems work under the hood, and solving challenging engineering problems.
 
 ---
 
 ## 🚀 Featured Systems & Projects
 
-### ⚙️ [PulseQ](https://github.com/shubhprasadkgp/PulseQ) 
-*Distributed Background Job Orchestration Platform*
-* **Tech:** Node.js, Express.js, Redis, WebSockets, Docker Compose
-* Engine supporting **10,000+ queued jobs** with atomic dispatch, retries, heartbeats, and failure recovery.
-* Built fault-tolerant worker coordination and a sub-second latency WebSocket dashboard for real-time monitoring.
+### ⚙️ [PulseQ](https://github.com/shubhprasadkgp/PulseQ) `Node.js` `Express.js` `Redis` `WebSockets` `Docker`
+* Distributed job orchestration platform supporting **10,000+ queued jobs** with atomic dispatch, retries, and crash recovery.
+* Engineered fault-tolerant worker coordination and a sub-second latency WebSocket monitoring dashboard.
 
-### 🗄️ [AegisDB](https://github.com/shubhprasadkgp/AegisDB) 
-*Embedded LSM-Tree Key-Value Storage Engine*
-* **Tech:** C++, Multithreading, File I/O
-* Implemented WAL for crash recovery, MemTables, SSTables, size-tiered compaction, and tombstone cleanup.
-* Accelerated read efficiency using 3-hash **Bloom filters** and sparse indexing.
+### 🗄️ [AegisDB](https://github.com/shubhprasadkgp/AegisDB) `C++` `Multithreading` `File I/O`
+* LSM-tree key-value engine featuring WAL crash recovery, background MemTable flushing, and size-tiered compaction.
+* Accelerated read efficiency using 3-hash **Bloom filters** and sparse indexing for fast key retrieval.
 
-### 📈 [MarketLab](https://github.com/shubhprasadkgp/MarketLab) *(In Progress)*
-*Multi-Agent Stock Market Experimentation Platform*
-* **Tech:** FastAPI, React, PostgreSQL, Docker, Reinforcement Learning
-* Architected a limit-order-book exchange with 5 autonomous trading strategy agents (Momentum, Mean-Reversion, RL, etc.).
+### 📈 [MarketLab](https://github.com/shubhprasadkgp/MarketLab) *(In Progress)* `FastAPI` `React` `PostgreSQL` `Docker` `RL`
+* Multi-agent platform featuring a realistic limit-order-book exchange and customizable simulation workflows.
+* Built 5 autonomous trading agents (Momentum, Mean-Reversion, RL) for automated strategy evaluation.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-* **Languages:** C++, Python, JavaScript, TypeScript, SQL
-* **Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets
-* **Databases & Storage:** PostgreSQL, Redis, LSM-Trees
-* **Tools & DevOps:** Docker, Git, Linux, Bash
+* **Languages & Core:** C++, Python, JavaScript, TypeScript, SQL
+* **Backend & Storage:** Node.js, Express.js, FastAPI, REST APIs, WebSockets, PostgreSQL, Redis
+* **Tools & Infrastructure:** Docker, Git, Linux, Bash
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-* **GitHub:** [github.com/shubhprasadkgp](https://github.com/shubhprasadkgp)
-* **LinkedIn:** [linkedin.com/in/shubhprasad-iitkgp](https://linkedin.com/in/shubhprasad-iitkgp)
-* **Email:** [shubhprasadkgp@gmail.com](mailto:shubhprasadkgp@gmail.com)
+[LinkedIn](https://linkedin.com/in/shubhprasad-iitkgp) 
+[Email](mailto:shubhprasadkgp@gmail.com)
